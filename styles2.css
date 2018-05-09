@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+    font-size: 1 em;
+    font-family: sans-serif
+    
+}
+#rahmen{
+    
+    font-family:Liberation Sans;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1em;
+    
+   
+        
+        
+    
+}
+
+
+#bannerobenen{
+    height: 7px;
+    background:#007554;
+   
+}
+   
+
+.Impressum{
+  
+    margin: 0 20 0 20; 
+    word-spacing: -5px;
+    
+    
+    
+}
+
+#Texte {
+margin-top: 25px;
+    float: left;
+    word-spacing: 40px;
+    width: 960px;
+   
+    margin: 20 4 50 4;
+    
+    
+    
+}
+
+.inhalt {
+    width: 800px;
+     margin: 80 80 0 0;
+    float: right;
+}    
+
+#Überschrieft {
+    text-align: center;
+    margin: 0 200 50 20;
+    
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    float:left;
+    margin-top: 20px;
+    
+}
+
+a:hover {
+    color:#30961b
+    
+}
+
+.impress{
+    width: 800px;
+    float: left;
+    margin: 10px;
+    padding: 22px;
+   
+}
+
+.ims{
+    width: 800px;
+    float: left;
+    margin: 10px;
+    
+    
+}

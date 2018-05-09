@@ -1,0 +1,121 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+    font-size: 1 em;
+    
+}
+#rahmen{
+    
+    font-family:Liberation Sans;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1em;
+   
+        
+        
+    
+}
+
+
+#bannerobenen{
+    
+    
+    height: 7px;
+    background:#007554;
+    }
+
+
+
+
+
+#e  {
+    color: black;
+    float: left;
+    z-index: -10 ; 
+    
+    
+}
+
+#logo {
+    margin-left: -150px;
+    margin-top: 20px;
+    
+    
+    
+}
+#texte {
+    
+    width: 500;
+    margin-left: 30px;
+   
+    
+    
+}
+.unterschrieft{
+    
+    float: right;
+    margin-left: 20px;
+    
+    
+    
+}
+#e{
+    text-decoration: none;
+    color: black;
+    
+}
+    
+  
+    
+}
+#vier{
+    margin-top: 10px;
+    text-align:right;
+    word-spacing: 25
+    
+        
+}
+#e:hover {
+    
+    color: green;
+    font-size:1em;
+        
+}
+
+.t { text-align: right;  
+    word-spacing: 6;
+     text-decoration: none;
+    float: right;
+    width: 300px;
+    color: black;
+    margin-top:10px;
+}
+
+.r {text-align: right;  
+    word-spacing: 6;
+     text-decoration: none;
+    float: right;
+    width: 300px;
+    color: black;
+    margin-top: 10px    }
+   
+
+#RahmenU {
+    height: 350px;
+    margin-top:150px;
+    background:#007554;
+    
+}
+
+#map {
+    
+    margin-top:-333 ;
+    float: right;
+        
+    
+}
+
+
+    
