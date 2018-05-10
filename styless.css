@@ -45,12 +45,13 @@ img{
 }
 
 .Menubox {
-    width: 120;
+    width: 130;
     
    
-    height: 30px;
-    margin-top:10px; 
-    margin: auto;
+    height: 25px;
+    padding: 7px;
+   
+    
     background-color: 
         rgba( 255, 255, 255, 0.543 );
     border-radius: 4px;
@@ -61,13 +62,21 @@ img{
     
 }
     
-    .Menubox p{
+    .Menubox {
         margin-left: 0px;
-        margin-top: 6px;
+        margin-top:   30px;
+        font-weight: 600;
         text-align: center;
-        
-        
+    
     }   
+    
+    .Menubox a{
+        text-decoration: none;
+        color: black;
+       
+        
+        
+    }
         
 
     
@@ -106,7 +115,15 @@ h1{
 }
 inhalt p{
     clear: both;
-    text-indent: 20;} }
+    text-indent: 20;} 
+
+a:hover {
+        color:#e37a68;
+        
+        
+    }    
+    
+}
     
 @media screen and (min-device-width : 120px) 
 and (max-device-width : 480px)  {
@@ -117,7 +134,7 @@ and (max-device-width : 480px)  {
     }   
     
 .menu{ width: 110%;
-        height: 15%;
+        height: 13%;
         margin-left: -50;
         margin-top: -10;
         flex-wrap: wrap;
@@ -126,8 +143,9 @@ and (max-device-width : 480px)  {
     
 .Menubox {
         width: 400px;
-        height: 40%;
-        font-size: 2em;
+        height: 20%;
+        border-radius: 20px;
+        font-size: 2.5em;
         font-weight: 600;
     }
     
