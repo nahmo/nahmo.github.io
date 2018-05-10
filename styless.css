@@ -112,7 +112,7 @@ inhalt p{
 and (max-device-width : 480px)  {
    
     
-    *{   font-family: cursive;
+    *{   font-family: serif;
          padding: 0px;
     }   
     
