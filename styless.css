@@ -1,6 +1,6 @@
 
 .oberbalken {
-    height: 100%;
+    height: auto;
     background-color:#f7fcf7;
     
     }
@@ -68,7 +68,8 @@ nav ul li:hover a{
     margin-left: 20px;
 }
 
-#Texte{height: 70%;
+#Texte{height: auto;
+    min-height: 890px;
     width: 800px;
     background-color: #ffffff;
     margin: 70 auto 0 auto
@@ -107,7 +108,7 @@ nav ul li:hover a{
 }
 
 #Unterbalken { width: 960px;
-margin: 130 auto 0 auto;
+margin: 110 auto 0 auto;
 height: 90px; 
 background-color: white;
 
@@ -117,9 +118,11 @@ background-color: white;
 
 .Innenblock {
 width: 33.33333333333333333333333333333333333%;
-margin-top: ;
+margin-top:-3 ;
 float: left;
-background-color:#ffffff
+background-color:#ffffff;
+
+    
 }
 .Innenblock b{
     padding: 10 2;
