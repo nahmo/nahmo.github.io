@@ -9,7 +9,7 @@
     height: 88px;
     max-width: 960px;
     background-color: #ffffff;
-    margin: 0 auto;}
+    margin: 0 auto; }
 
 
 nav ul{
@@ -22,8 +22,6 @@ margin-left: 20px;
 list-style: none;
 position: relative;
 display:inline-table;
-
-
 }
 nav ul li {
 	float: left;
@@ -138,7 +136,3 @@ background-color:#ffffff;
     line-height: 1.25;
 }
 
-h2{
-    
-        
-}
