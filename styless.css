@@ -1,0 +1,80 @@
+
+
+#Seite {
+    font-family: sans-serif;
+    
+    
+    max-width: 960px;
+    margin: 0 auto ;
+    background-color: #edf6e8; 
+    
+}
+
+
+button{}
+
+.Kopfzeile {
+    background-color:  #ff9393;
+    color: #ffffff;
+    height: 70px;
+    
+    width: 70%;
+    
+    padding: 20px; 
+    text-align: left;
+    border-bottom: solid 4px rgba( 255, 255, 255, 0.933 );
+    
+    
+}
+ 
+#Inhalt {
+    box-sizing: padding-box;
+
+    
+    padding: 20px; 
+    
+}
+
+h2{
+    margin-bottom: 40px;
+    font-weight: bold;
+    font-family: Segoe Script;
+    
+}
+
+
+#tb1 {
+    background-color: #ffffff;
+    
+     border-collapse: collapse;
+    width: 70%;
+    text-align: center;
+}
+
+#tb1 tr th{
+    
+    background-color: #ff9393;
+    padding: 15px;
+    font-size: 1.4em;
+    
+}
+
+
+
+#tb1 tr td{
+    
+    
+    padding: 10px;
+    font-size: 1.3em;
+    border: solid 1px #999999;
+}
+
+#tb1 tr:nth-child(even){
+    background-color: #ebe4e4; 
+}
+
+#tb1 tr:hover {
+    
+    background-color: #d1a7a7;
+    
+}
